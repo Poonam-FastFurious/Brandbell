@@ -32,7 +32,6 @@ function App() {
     <BrowserRouter>
       <ScrollToTop />
       <Routes>
-        {/* Default Layout for all pages except Thank-you */}
         <Route element={<Layout />}>
           <Route path="/" element={<Home />} />
           <Route path="/About-us" element={<AboutUs />} />
@@ -45,7 +44,10 @@ function App() {
           <Route path="/website-development" element={<Webdevelopments />} />
           <Route path="/Digital-marketing" element={<DigitalMarketing />} />
           <Route path="/Craetive-Service" element={<CreativeService />} />
-          <Route path="/whatsapp-chatbot-development" element={<Whatsappchatbot />} />
+          <Route
+            path="/whatsapp-chatbot-development"
+            element={<Whatsappchatbot />}
+          />
           <Route path="/TermsandConditions" element={<Terms />} />
           {/* <Route path="/Team" element={<Team />} /> */}
           <Route path="/Privacy" element={<Privacy />} />
