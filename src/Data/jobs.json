@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "initials": "SD",
+      "badgeText": "Full Time",
+      "badgeColor": "bg-[#e0e9fa]",
+      "badgeTextColor": "#3f78e0",
+      "title": "Senior Graphic Designer",
+      "location": "Noida sector 62",
+      "iconBg": "bg-[rgba(226,98,107)]"
+    },
+    {
+      "id": 2,
+      "initials": "UX",
+      "badgeText": "Remote",
+      "badgeColor": "bg-[#e4f1f6]",
+      "badgeTextColor": "#54a8c7",
+      "title": "UI/UX Designer",
+      "location": "Anywhere",
+      "iconBg": "bg-[rgba(69,196,160)]"
+    },
+    {
+      "id": 3,
+      "initials": "MD",
+      "badgeText": "Full Time",
+      "badgeColor": "bg-[#e0e9fa]",
+      "badgeTextColor": "#3f78e0",
+      "title": "Mobile Developer",
+      "location": "Noida sector 62",
+      "iconBg": "bg-[rgba(247,139,119)]"
+    },
+    {
+      "id": 4,
+      "initials": "AN",
+      "badgeText": "Full Time",
+      "badgeColor": "bg-[#e0e9fa]",
+      "badgeTextColor": "#3f78e0",
+      "title": "Multimedia Artist & Animator",
+      "location": "Noida sector 62",
+      "iconBg": "bg-[rgba(250,183,88)]"
+    },
+    {
+      "id": 5,
+      "initials": "FD",
+      "badgeText": "Part Time",
+      "badgeColor": "bg-[#f0eaf6]",
+      "badgeTextColor": "#a07cc5",
+      "title": "Front End Developer",
+      "location": "Noida sector 62",
+      "iconBg": "bg-[rgba(116,126,209)]"
+    },
+    {
+      "id": 6,
+      "initials": "ND",
+      "badgeText": "Full Time",
+      "badgeColor": "bg-[#e0e9fa]",
+      "badgeTextColor": "#3f78e0",
+      "title": ".NET Developer",
+      "location": "Noida sector 62",
+      "iconBg": "bg-[rgba(209,107,134)]"
+    }
+  ]
+  
